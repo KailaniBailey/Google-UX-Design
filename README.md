@@ -2,6 +2,13 @@
 # About the Google UX Design Professional Certificate
 # Summary of This Repository
 # Completed Courses and Certificates
+- Course 1:
+- Course 2:
+- Course 3:
+- Course 4:
+- Course 5:
+- Course 6:
+- Course 7:
 ## Course Objectives
 ## Skills for UX
 - User Experience (UX)
