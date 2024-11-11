@@ -13,6 +13,10 @@ Additional Info: Please scroll down to view the employer-recognized UX Design Pr
 - Course 6: Build Dynamic User Interfaces (UI) for Websites
 - Course 7: Design a User Experience for Social Good and Prepare for Jobs
 ## Course Objectives
+- Follow the design process: empathize with users, define pain points, ideate solutions, create wireframes and prototypes, test and iterate on designs
+- Understand the basics of UX research, like planning research studies, conducting interviews and usability studies, and synthesizing research results
+- Apply foundational UX concepts, like user-centered design, accessibility, and equity-focused design
+- Create a professional UX portfolio, including end-to-end projects, so that you're ready to apply for jobs
 ## Skills for UX
 - User Experience (UX)
 - Prototype
