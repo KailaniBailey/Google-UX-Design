@@ -1,5 +1,10 @@
 ![Screenshot (152)](https://github.com/user-attachments/assets/4586ecce-3db4-4d7d-a438-3c9256b56307)
 # About the Google UX Design Professional Certificate
+> This program includes over 200 hours of instruction and hundreds of practice-based activities and assessments that simulate real-world UX design scenarios and are critical for success in the workplace. The content is highly interactive and developed by Google employees with decades of experience in UX design.
+>
+> You’ll learn how to complete the design process from beginning to end, including: Empathizing with users; Defining user pain points; Coming up with ideas for design solutions; Creating wireframes, mockups, and prototypes; Testing designs through usability studies; Iterating on designs based on feedback.
+>
+> Through a mix of videos, readings, assessments, and hands-on activities, you’ll learn in-demand design tools like Figma. You’ll even create a portfolio that includes three projects to share with potential employers to showcase the skills you learned in this program.
 # Summary of This Repository
 This repository contains select course content, relevant notes, bits of code, final projects, quiz grades, and proof of certification for each course.
 
