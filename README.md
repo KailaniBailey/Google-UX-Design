@@ -8,15 +8,15 @@
 # Summary of This Repository
 This repository contains select course content, relevant notes, bits of code, final projects, quiz grades, and proof of certification for each course.
 
-Additional Info: Please scroll down to view the employer-recognized UX Design Professional Certificate from Google and verification link.
+**Additional Info:** Please scroll down to view the employer-recognized UX Design Professional Certificate from Google and verification link.
 # Completed Courses and Certificates
-- Course 1: Foundations of User Experience (UX) Design
-- Course 2: Start the UX Design Process: Empathize, Define, and Ideate
-- Course 3: Build Wireframes and Low-Fidelity Prototypes
-- Course 4: Conduct UX Research and Test Early Concepts
-- Course 5: Create High-Fidelity Designs and Prototypes in Figma
-- Course 6: Build Dynamic User Interfaces (UI) for Websites
-- Course 7: Design a User Experience for Social Good and Prepare for Jobs
+- **Course 1:** Foundations of User Experience (UX) Design
+- **Course 2:** Start the UX Design Process: Empathize, Define, and Ideate
+- **Course 3:** Build Wireframes and Low-Fidelity Prototypes
+- **Course 4:** Conduct UX Research and Test Early Concepts
+- **Course 5:** Create High-Fidelity Designs and Prototypes in Figma
+- **Course 6:** Build Dynamic User Interfaces (UI) for Websites
+- **Course 7:** Design a User Experience for Social Good and Prepare for Jobs
 ## Course Objectives
 - Follow the design process: empathize with users, define pain points, ideate solutions, create wireframes and prototypes, test and iterate on designs
 - Understand the basics of UX research, like planning research studies, conducting interviews and usability studies, and synthesizing research results
