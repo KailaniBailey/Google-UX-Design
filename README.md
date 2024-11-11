@@ -1,6 +1,9 @@
 ![Screenshot (152)](https://github.com/user-attachments/assets/4586ecce-3db4-4d7d-a438-3c9256b56307)
 # About the Google UX Design Professional Certificate
 # Summary of This Repository
+This repository contains select course content, relevant notes, bits of code, final projects, quiz grades, and proof of certification for each course.
+
+Additional Info: Please scroll down to view the employer-recognized UX Design Professional Certificate from Google and verification link.
 # Completed Courses and Certificates
 - Course 1: Foundations of User Experience (UX) Design
 - Course 2: Start the UX Design Process: Empathize, Define, and Ideate
