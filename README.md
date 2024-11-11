@@ -4,5 +4,14 @@
 # Completed Courses and Certificates
 ## Course Objectives
 ## Skills for UX
+- User Experience (UX)
+- Prototype
+- Wireframe
+- User Experience Design (UXD)
+- UX Research
+- mockup
+- Figma
+- Usability Testing
+- UX design jobs
 # My Employer-Recognized Certificate from Google
 *Coming Soon...*
