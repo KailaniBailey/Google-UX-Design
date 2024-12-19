@@ -10,7 +10,7 @@ This repository contains select course content, relevant notes, bits of code, fi
 
 **Additional Info:** Please scroll down to view the employer-recognized UX Design Professional Certificate from Google and verification link.
 # Completed Courses and Certificates
-- **Course 1:** Foundations of User Experience (UX) Design
+- **Course 1:** [Foundations of User Experience (UX) Design](https://github.com/KailaniBailey/Google-UX-Design/tree/main/Course%201:%20Foundations%20of%20User%20Experience%20(UX)%20Design)
 - **Course 2:** Start the UX Design Process: Empathize, Define, and Ideate
 - **Course 3:** Build Wireframes and Low-Fidelity Prototypes
 - **Course 4:** Conduct UX Research and Test Early Concepts
