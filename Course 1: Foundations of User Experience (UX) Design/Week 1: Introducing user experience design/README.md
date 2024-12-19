@@ -49,5 +49,5 @@
 - **Practice Quiz:** Test your knowledge of the roles you can pursue in UX design
 ## Module 1 review
 - Wrap-up: Introducing user experience design
-- Glossary terms from module 1
+- [Glossary terms from module 1](https://github.com/KailaniBailey/Google-UX-Design/tree/main/Course%201:%20Foundations%20of%20User%20Experience%20(UX)%20Design/Week%201:%20Introducing%20user%20experience%20design/Glossary%20terms%20from%20module%201)
 - **Graded Quiz:** Module 1 Challenge: The basics of user experience design
