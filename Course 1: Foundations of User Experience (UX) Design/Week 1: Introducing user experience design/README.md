@@ -40,5 +40,14 @@
 - Interact with cross-functional teammates
 - Self-Reflection: Your journey to become a UX designer
 ## Understand the types of companies that hire UX designers
+- UX design jobs at different types of companies
+- The influence of company size and industry
 ## Pursue a career in UX design
+- From certificate to career success
+- Juan - A UX design career journey
+- Mike - A UX design career journey
+- **Practice Quiz:** Test your knowledge of the roles you can pursue in UX design
 ## Module 1 review
+- Wrap-up: Introducing user experience design
+- Glossary terms from module 1
+- **Graded Quiz:** Module 1 Challenge: The basics of user experience design
