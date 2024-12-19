@@ -15,7 +15,7 @@ This repository contains select course content, relevant notes, bits of code, fi
 - **Course 3:** [Build Wireframes and Low-Fidelity Prototypes](https://github.com/KailaniBailey/Google-UX-Design/tree/main/Course%203:%20Build%20Wireframes%20and%20Low-Fidelity%20Prototypes)
 - **Course 4:** [Conduct UX Research and Test Early Concepts](https://github.com/KailaniBailey/Google-UX-Design/tree/main/Course%204:%20Conduct%20UX%20Research%20and%20Test%20Early%20Concepts)
 - **Course 5:** [Create High-Fidelity Designs and Prototypes in Figma](https://github.com/KailaniBailey/Google-UX-Design/tree/main/Course%205:%20Create%20High-Fidelity%20Designs%20and%20Prototypes%20in%20Figma)
-- **Course 6:** Build Dynamic User Interfaces (UI) for Websites
+- **Course 6:** [Build Dynamic User Interfaces (UI) for Websites](https://github.com/KailaniBailey/Google-UX-Design/tree/main/Course%206%3A%20Build%20Dynamic%20User%20Interfaces%20(UI)%20for%20Websites)
 - **Course 7:** Design a User Experience for Social Good and Prepare for Jobs
 ## Course Objectives
 - Follow the design process: empathize with users, define pain points, ideate solutions, create wireframes and prototypes, test and iterate on designs
