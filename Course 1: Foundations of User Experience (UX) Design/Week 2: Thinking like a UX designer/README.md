@@ -12,5 +12,22 @@
 - Understand equity-focused design
 - Describe the importance of accessibility in the design process
 ## Get to know UX design best practices and trends
+- Welcome to week 2
+- Universal design, inclusive design, and equity-focused design
+- The importance of equity-focused design
+- **Practice Assignment:** Test your knowledge on equitable design approaches
+- Get to know platforms
+- Design for different platforms
+- Designing cross-platform experiences
 ## Get to know the user
+- User-centered design
+- Who are my users?
+- Assistive technology
+- Elise - The importance of assistive technology
+- Additional resources on designing for accessibility
+- User-centered design and assistive technology
+- Akhil - Thinking about users new to technology
+- **Practice Assignment:** Test your knowledge on the user
 ## Module 2 review
+- Glossary terms from module 2
+- **Graded Quiz:** Module 2 challenge: Thinking like a UX designer
