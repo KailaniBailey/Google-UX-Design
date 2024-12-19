@@ -31,6 +31,14 @@
 - Identify a good user experience
 - Review: Identify good user experience
 ## Explore jobs in user experience
+- Job responsibilities of entry-level UX designers
+- Specialists, generalists, and T-shaped designers
+- Dane - A day in the life of an entry-level UX designer
+- Erika - Generalist or specialist designer
+- The role of a beginner UX designer
+- Work in a cross-functional team
+- Interact with cross-functional teammates
+- Self-Reflection: Your journey to become a UX designer
 ## Understand the types of companies that hire UX designers
 ## Pursue a career in UX design
 ## Module 1 review
