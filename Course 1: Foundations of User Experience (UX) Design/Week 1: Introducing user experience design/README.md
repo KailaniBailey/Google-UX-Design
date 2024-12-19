@@ -9,7 +9,27 @@
 - Explore job opportunities available upon completion of this program
 - Define the field of UX and explain its importance for consumers and businesses
 ## Start the program
+- Welcome to the Google UX Design Certificate
+- Begin the Google UX Design Certificate
+- Michael: Get started in UX design
+- Introduction to Course 1: Foundations of User Experience Design
+- Obtain the Google UX Design Certificate
+- Commit to completing the program
+- Helpful resources and tips
+- Participant entry survey
 ## Get to know user experience design
+- Welcome to module 1
+- The basics of user experience design
+- Jobs in the field of user experience
+- User experience careers
+- Most common UX tools
+- Stay current with the UX industry
+- The product development life cycle
+- Learn more about the produce development life cycle
+- Design for good user experience
+- Characteristics of good user experience
+- Identify a good user experience
+- Review: Identify good user experience
 ## Explore jobs in user experience
 ## Understand the types of companies that hire UX designers
 ## Pursue a career in UX design
