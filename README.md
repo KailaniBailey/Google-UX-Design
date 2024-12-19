@@ -14,7 +14,7 @@ This repository contains select course content, relevant notes, bits of code, fi
 - **Course 2:** [Start the UX Design Process: Empathize, Define, and Ideate](https://github.com/KailaniBailey/Google-UX-Design/tree/main/Course%202:%20Start%20the%20UX%20Design%20Process:%20Empathize,%20Define,%20and%20Ideate)
 - **Course 3:** [Build Wireframes and Low-Fidelity Prototypes](https://github.com/KailaniBailey/Google-UX-Design/tree/main/Course%203:%20Build%20Wireframes%20and%20Low-Fidelity%20Prototypes)
 - **Course 4:** [Conduct UX Research and Test Early Concepts](https://github.com/KailaniBailey/Google-UX-Design/tree/main/Course%204:%20Conduct%20UX%20Research%20and%20Test%20Early%20Concepts)
-- **Course 5:** Create High-Fidelity Designs and Prototypes in Figma
+- **Course 5:** [Create High-Fidelity Designs and Prototypes in Figma](https://github.com/KailaniBailey/Google-UX-Design/tree/main/Course%205:%20Create%20High-Fidelity%20Designs%20and%20Prototypes%20in%20Figma)
 - **Course 6:** Build Dynamic User Interfaces (UI) for Websites
 - **Course 7:** Design a User Experience for Social Good and Prepare for Jobs
 ## Course Objectives
